@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-tests",
+  "version": "1.0.0",
+  "description": "some experiments with testing in js",
+  "main": "index.js",
+  "type":"module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximRoganov/hexlet-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximRoganov/hexlet-tests/issues"
+  },
+  "homepage": "https://github.com/MaximRoganov/hexlet-tests#readme"
+}
